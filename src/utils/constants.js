@@ -13,10 +13,6 @@
 // 		'x-rapidapi-key': '9012f93361msh44b8a017a7bacb7p1e88b7jsnf475f5627655',
 // 		'x-rapidapi-host': 'youtube-v31.p.rapidapi.com'
 // 	}
-// };
- export const GOOGLE_API_KEY="AIzaSyCEM4SNMvrSex9Du0YcdhMl5MM9n7B-3lg"
-
-export const YT_VDO_API="https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=50&regionCode=IN&key="+GOOGLE_API_KEY
 
 
 // export const GET_VDO_API="https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=Ks-_Mh1QhMc&key="+GOOGLE_API_KEY
